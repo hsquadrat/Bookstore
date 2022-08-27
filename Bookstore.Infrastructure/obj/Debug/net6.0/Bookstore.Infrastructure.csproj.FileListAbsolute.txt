@@ -1,0 +1,17 @@
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.deps.json
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.dll
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\ref\Bookstore.Infrastructure.dll
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Infrastructure.pdb
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Application.dll
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Domain.dll
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Application.pdb
+C:\dev\Bookstore\Bookstore.Infrastructure\bin\Debug\net6.0\Bookstore.Domain.pdb
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.AssemblyReference.cache
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.AssemblyInfoInputs.cache
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.AssemblyInfo.cs
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.csproj.CopyComplete
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.dll
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\ref\Bookstore.Infrastructure.dll
+C:\dev\Bookstore\Bookstore.Infrastructure\obj\Debug\net6.0\Bookstore.Infrastructure.pdb

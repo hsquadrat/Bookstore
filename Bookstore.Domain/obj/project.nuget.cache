@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oh0kQwzKKgQmohzMursyeVyRIuD1WG2VT2td7Q6Jp1GJccpTksHir2zqeYB1WBFYvFghCunFNUNW5vWaj41QKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hs\\source\\repos\\ProgrammierenStarten\\TDD\\Application_Layer_8\\Bookstore\\Bookstore.Domain\\Bookstore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hs\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

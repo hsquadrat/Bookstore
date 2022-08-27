@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FAbtt0jhvCEd/Ekm7umJwuxkoyrFVhHSHHpx0gs6+DMYnxE7uQ7iulcsuyQ4ZPFje3jBknsJzBn6dCDlrG2e/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hs\\source\\repos\\ProgrammierenStarten\\TDD\\Application_Layer_8\\Bookstore\\Bookstore.Infrastructure\\Bookstore.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hs\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\hs\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
